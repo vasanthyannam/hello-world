@@ -122,7 +122,7 @@ button:hover {
 <!-- Banner -->
 
 <div class="banner">
-    <h1> I am Vasanth 🛒</h1>
+    <h1> Lendi 🛒</h1>
     <p>Best Deals on Electronics & Fashion</p>
 </div>
 
